@@ -5,3 +5,7 @@
     flex-direction: column;
     height: 90vh;
 }
+
+footer{
+    height: 13vh;
+   background-color: aqua;
