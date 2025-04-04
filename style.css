@@ -6,6 +6,28 @@
     height: 90vh;
 }
 
-footer{
-    height: 13vh;
-   background-color: aqua;
+.footer{
+ 
+background-color: blue;
+padding: 1%;
+padding-bottom: 1%;
+
+}
+ 
+
+   .mezzo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+   .contatti p{
+    display: flex;
+    align-items: center;
+   }
+
+
+.passioni{
+   background-color:aquamarine;
+  height: 50vh;
+}
