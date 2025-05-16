@@ -3,7 +3,8 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 90vh;
+    color: white;
+    
 }
 
 .footer{
@@ -49,3 +50,11 @@ padding-bottom: 1%;
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.background-img {
+   background-image: url("./img/stagee.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 80vh;
+   margin-bottom: 0  ;
+}  
